@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laxmisravyarudraraju
 - 👀 I’m interested in Backend Development and Cloud
-- 🌱 I’m currently learning Algorithms by practicing leetcode problems
+- 🌱 I’m currently practicing Algorithms by doing leetcode problems
 
 <!---
 laxmisravyarudraraju/laxmisravyarudraraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
